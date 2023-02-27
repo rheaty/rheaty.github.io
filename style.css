@@ -1,0 +1,12 @@
+Selector {
+	Property: value;
+}
+
+img {
+	float: center;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}

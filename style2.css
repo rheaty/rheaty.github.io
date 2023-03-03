@@ -1,0 +1,14 @@
+.container {
+	display: flex;
+	justify-content: center
+}
+
+form {
+	margin: 25px;
+}
+
+img {
+	width: 500px;
+	height: 300px;
+	margin: 25px;
+}
